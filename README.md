@@ -1,2 +1,2 @@
 # Datta-demo
-thia is a demo for Git &amp; GitHub class
+thia is a demo for Git &amp; GitHub class.
