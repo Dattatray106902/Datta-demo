@@ -5,4 +5,4 @@ thia is a demo for Git &amp; GitHub class.
  shradha khapra
 
  # Student
- datta
+ datta.
